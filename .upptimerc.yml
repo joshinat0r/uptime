@@ -7,7 +7,7 @@ sites:
   - name: Iris Hoppe
     url: https://irishoppe.com
   - name: Jugorder API
-    url: https://api.jugorder.de
+    url: https://api.jugorder.de/swagger
   - name: Jugorder
     url: https://jugorder.de
   - name: Tanknotes
