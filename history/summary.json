@@ -58,19 +58,19 @@
     "url": "https://tanknotes.com",
     "icon": "https://favicons.githubusercontent.com/tanknotes.com",
     "slug": "tanknotes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 594,
-    "timeWeek": 659,
-    "timeMonth": 659,
-    "timeYear": 658,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 768,
+    "timeDay": 4036,
+    "timeWeek": 1511,
+    "timeMonth": 894,
+    "timeYear": 768,
     "dailyMinutesDown": {
-      "2021-03-02": 0
+      "2021-03-02": 6
     }
   },
   {
