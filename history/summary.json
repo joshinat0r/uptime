@@ -78,18 +78,20 @@
     "url": "https://stats.tanknotes.com",
     "icon": "https://favicons.githubusercontent.com/stats.tanknotes.com",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 521,
-    "timeWeek": 474,
+    "time": 471,
+    "timeDay": 488,
+    "timeWeek": 472,
     "timeMonth": 466,
-    "timeYear": 472,
-    "dailyMinutesDown": {}
+    "timeYear": 471,
+    "dailyMinutesDown": {
+      "2021-03-05": 0
+    }
   },
   {
     "name": "CMS",
