@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 793,
-    "timeWeek": 812,
-    "timeMonth": 851,
-    "timeYear": 907,
+    "time": 906,
+    "timeDay": 809,
+    "timeWeek": 803,
+    "timeMonth": 852,
+    "timeYear": 906,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 669,
-    "timeWeek": 719,
-    "timeMonth": 724,
-    "timeYear": 739,
+    "time": 738,
+    "timeDay": 690,
+    "timeWeek": 690,
+    "timeMonth": 727,
+    "timeYear": 738,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 507,
-    "timeWeek": 576,
-    "timeMonth": 612,
-    "timeYear": 624,
+    "time": 626,
+    "timeDay": 793,
+    "timeWeek": 586,
+    "timeMonth": 607,
+    "timeYear": 626,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 761,
-    "timeDay": 649,
-    "timeWeek": 1406,
-    "timeMonth": 878,
-    "timeYear": 761,
+    "time": 760,
+    "timeDay": 670,
+    "timeWeek": 1388,
+    "timeMonth": 880,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2021-03-02": 24
     }
@@ -79,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/stats.tanknotes.com",
     "slug": "umami",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 472,
-    "timeDay": 487,
-    "timeWeek": 473,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 471,
+    "timeDay": 460,
+    "timeWeek": 457,
     "timeMonth": 466,
-    "timeYear": 472,
-    "dailyMinutesDown": {
-      "2021-03-05": 6
-    }
+    "timeYear": 471,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CMS",
@@ -106,8 +104,8 @@
     "uptimeYear": "99.97%",
     "time": 581,
     "timeDay": 589,
-    "timeWeek": 605,
-    "timeMonth": 581,
+    "timeWeek": 583,
+    "timeMonth": 580,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2021-02-17": 26
