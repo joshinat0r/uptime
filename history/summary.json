@@ -6,15 +6,15 @@
     "slug": "iris-hoppe",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 896,
-    "timeDay": 962,
-    "timeWeek": 817,
-    "timeMonth": 823,
-    "timeYear": 896,
+    "time": 895,
+    "timeDay": 844,
+    "timeWeek": 831,
+    "timeMonth": 818,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2021-03-12": 20
     }
@@ -26,15 +26,15 @@
     "slug": "jugorder-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 738,
-    "timeDay": 660,
-    "timeWeek": 743,
-    "timeMonth": 731,
-    "timeYear": 738,
+    "time": 737,
+    "timeDay": 664,
+    "timeWeek": 708,
+    "timeMonth": 727,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2021-03-12": 20
     }
@@ -46,15 +46,15 @@
     "slug": "jugorder",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 627,
-    "timeDay": 710,
-    "timeWeek": 628,
-    "timeMonth": 616,
-    "timeYear": 627,
+    "time": 625,
+    "timeDay": 486,
+    "timeWeek": 607,
+    "timeMonth": 609,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2021-03-12": 20
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 749,
-    "timeDay": 645,
-    "timeWeek": 647,
-    "timeMonth": 883,
-    "timeYear": 749,
+    "time": 748,
+    "timeDay": 668,
+    "timeWeek": 645,
+    "timeMonth": 879,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2021-03-02": 24
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 470,
-    "timeDay": 435,
-    "timeWeek": 464,
-    "timeMonth": 469,
+    "timeDay": 429,
+    "timeWeek": 454,
+    "timeMonth": 466,
     "timeYear": 470,
     "dailyMinutesDown": {}
   },
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 582,
-    "timeDay": 573,
-    "timeWeek": 594,
-    "timeMonth": 588,
-    "timeYear": 582,
+    "time": 583,
+    "timeDay": 627,
+    "timeWeek": 597,
+    "timeMonth": 586,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2021-02-17": 26
     }
