@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 895,
-    "timeDay": 884,
-    "timeWeek": 838,
-    "timeMonth": 814,
-    "timeYear": 895,
+    "time": 893,
+    "timeDay": 737,
+    "timeWeek": 836,
+    "timeMonth": 813,
+    "timeYear": 893,
     "dailyMinutesDown": {
       "2021-03-12": 20
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 742,
-    "timeDay": 1101,
-    "timeWeek": 754,
-    "timeMonth": 739,
+    "timeDay": 729,
+    "timeWeek": 759,
+    "timeMonth": 741,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2021-03-12": 20
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 626,
-    "timeDay": 730,
-    "timeWeek": 605,
-    "timeMonth": 613,
-    "timeYear": 626,
+    "time": 625,
+    "timeDay": 543,
+    "timeWeek": 606,
+    "timeMonth": 612,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2021-03-12": 20
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 748,
-    "timeDay": 766,
-    "timeWeek": 661,
-    "timeMonth": 885,
-    "timeYear": 748,
+    "time": 747,
+    "timeDay": 679,
+    "timeWeek": 672,
+    "timeMonth": 886,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2021-03-02": 24
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 539,
-    "timeWeek": 463,
-    "timeMonth": 469,
-    "timeYear": 471,
+    "time": 470,
+    "timeDay": 443,
+    "timeWeek": 465,
+    "timeMonth": 468,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -103,16 +103,16 @@
     "icon": "https://favicons.githubusercontent.com/cms.tanknotes.com",
     "slug": "cms",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 583,
-    "timeDay": 612,
-    "timeWeek": 596,
-    "timeMonth": 588,
-    "timeYear": 583,
+    "uptimeYear": "99.98%",
+    "time": 584,
+    "timeDay": 591,
+    "timeWeek": 602,
+    "timeMonth": 589,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2021-02-17": 26
     }
