@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 959,
-    "timeDay": 698,
-    "timeWeek": 899,
-    "timeMonth": 1121,
-    "timeYear": 959,
+    "time": 958,
+    "timeDay": 858,
+    "timeWeek": 901,
+    "timeMonth": 1112,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2021-03-12": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 783,
-    "timeDay": 884,
-    "timeWeek": 856,
-    "timeMonth": 845,
-    "timeYear": 783,
+    "time": 782,
+    "timeDay": 682,
+    "timeWeek": 840,
+    "timeMonth": 842,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2021-03-12": 20
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 671,
-    "timeDay": 679,
-    "timeWeek": 721,
-    "timeMonth": 749,
+    "timeDay": 582,
+    "timeWeek": 706,
+    "timeMonth": 748,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2021-03-12": 20
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/tanknotes.com",
     "slug": "tanknotes",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 756,
-    "timeDay": 579,
-    "timeWeek": 724,
-    "timeMonth": 760,
-    "timeYear": 756,
+    "uptimeYear": "99.99%",
+    "time": 754,
+    "timeDay": 607,
+    "timeWeek": 700,
+    "timeMonth": 756,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2021-03-02": 24
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 495,
-    "timeDay": 418,
-    "timeWeek": 490,
-    "timeMonth": 538,
+    "timeDay": 504,
+    "timeWeek": 488,
+    "timeMonth": 536,
     "timeYear": 495,
     "dailyMinutesDown": {}
   },
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 608,
-    "timeDay": 508,
-    "timeWeek": 631,
-    "timeMonth": 648,
+    "timeDay": 534,
+    "timeWeek": 617,
+    "timeMonth": 643,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2021-02-17": 26
